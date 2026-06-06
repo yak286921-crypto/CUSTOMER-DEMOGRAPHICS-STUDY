@@ -1,0 +1,51 @@
+CustomerID,Name,Age,Gender,City,State,Country,Education,Occupation,AnnualIncome,MaritalStatus,NumberOfChildren,PurchaseFrequency,AverageSpend,PreferredCategory,CustomerSegment,LoyaltyScore,ChurnRisk
+C001,Aarav Sharma,28,Male,Mumbai,Maharashtra,India,Graduate,IT Professional,750000,Single,0,12,4500,Electronics,Premium,85,Low
+C002,Priya Patel,35,Female,Ahmedabad,Gujarat,India,Post-Graduate,Teacher,420000,Married,2,6,2200,Clothing,Regular,62,Medium
+C003,Rohan Mehta,42,Male,Delhi,Delhi,India,Post-Graduate,Business Owner,1200000,Married,1,18,8900,Electronics,Premium,91,Low
+C004,Ananya Singh,24,Female,Lucknow,Uttar Pradesh,India,Graduate,Student,180000,Single,0,4,900,Books,Budget,35,High
+C005,Vikram Nair,50,Male,Chennai,Tamil Nadu,India,Graduate,Engineer,980000,Married,3,9,5600,Home Appliances,Premium,78,Low
+C006,Sneha Reddy,31,Female,Hyderabad,Telangana,India,Post-Graduate,Doctor,1500000,Married,0,7,6800,Healthcare,Premium,88,Low
+C007,Arjun Kapoor,27,Male,Pune,Maharashtra,India,Graduate,Software Engineer,680000,Single,0,15,3200,Electronics,Regular,72,Low
+C008,Kavya Iyer,38,Female,Bangalore,Karnataka,India,Post-Graduate,Manager,870000,Married,2,8,4100,Clothing,Regular,65,Medium
+C009,Rahul Gupta,45,Male,Kolkata,West Bengal,India,High School,Shopkeeper,360000,Married,3,5,1800,Grocery,Budget,48,Medium
+C010,Meera Joshi,29,Female,Jaipur,Rajasthan,India,Graduate,Graphic Designer,520000,Single,0,11,2700,Fashion,Regular,70,Low
+C011,Suresh Kumar,55,Male,Bhopal,Madhya Pradesh,India,High School,Farmer,220000,Married,4,3,1200,Grocery,Budget,40,High
+C012,Nisha Verma,32,Female,Chandigarh,Punjab,India,Post-Graduate,Lawyer,1100000,Married,1,10,5900,Jewelry,Premium,83,Low
+C013,Deepak Rao,36,Male,Nagpur,Maharashtra,India,Graduate,Accountant,580000,Married,2,7,3100,Electronics,Regular,60,Medium
+C014,Pooja Tiwari,23,Female,Varanasi,Uttar Pradesh,India,Graduate,Student,150000,Single,0,3,700,Books,Budget,28,High
+C015,Amit Choudhary,40,Male,Patna,Bihar,India,Graduate,Government Employee,490000,Married,2,6,2500,Home Appliances,Regular,55,Medium
+C016,Shruti Mishra,33,Female,Indore,Madhya Pradesh,India,Post-Graduate,Pharmacist,640000,Single,0,9,3600,Healthcare,Regular,68,Low
+C017,Kiran Menon,47,Male,Kochi,Kerala,India,Graduate,Businessman,890000,Married,2,12,6200,Electronics,Premium,80,Low
+C018,Tanvi Shah,26,Female,Surat,Gujarat,India,Graduate,Fashion Designer,470000,Single,0,14,2900,Fashion,Regular,74,Low
+C019,Manish Pandey,52,Male,Agra,Uttar Pradesh,India,High School,Trader,310000,Married,3,4,1500,Grocery,Budget,42,High
+C020,Ritu Saxena,30,Female,Noida,Uttar Pradesh,India,Post-Graduate,HR Manager,720000,Married,1,8,3800,Clothing,Regular,66,Medium
+C021,Aditya Bhatt,22,Male,Dehradun,Uttarakhand,India,Graduate,Student,120000,Single,0,2,500,Books,Budget,22,High
+C022,Lakshmi Pillai,44,Female,Trivandrum,Kerala,India,Post-Graduate,Principal,670000,Married,2,5,3000,Education,Regular,58,Medium
+C023,Nikhil Jain,37,Male,Udaipur,Rajasthan,India,Graduate,Hotel Manager,810000,Married,1,11,4700,Travel,Premium,77,Low
+C024,Geeta Pandey,48,Female,Kanpur,Uttar Pradesh,India,High School,Homemaker,280000,Married,3,4,1300,Grocery,Budget,38,High
+C025,Rohit Desai,29,Male,Nashik,Maharashtra,India,Graduate,Sales Executive,430000,Single,0,10,2300,Electronics,Regular,61,Medium
+C026,Pallavi Nanda,34,Female,Mysore,Karnataka,India,Post-Graduate,Architect,950000,Married,0,7,4800,Home Decor,Premium,82,Low
+C027,Sanjay Tripathi,43,Male,Allahabad,Uttar Pradesh,India,Graduate,Professor,560000,Married,2,6,2600,Books,Regular,57,Medium
+C028,Divya Kulkarni,25,Female,Belgaum,Karnataka,India,Graduate,Nurse,380000,Single,0,8,1900,Healthcare,Budget,45,Medium
+C029,Gaurav Malhotra,38,Male,Gurgaon,Haryana,India,Post-Graduate,Consultant,1350000,Married,1,16,7500,Electronics,Premium,90,Low
+C030,Sunita Rawat,41,Female,Haridwar,Uttarakhand,India,Graduate,Social Worker,290000,Married,3,3,1100,Grocery,Budget,33,High
+C031,Harish Patel,31,Male,Rajkot,Gujarat,India,Graduate,Entrepreneur,760000,Single,0,13,4200,Fashion,Regular,71,Low
+C032,Anita Sharma,56,Female,Mathura,Uttar Pradesh,India,High School,Homemaker,210000,Married,4,3,900,Grocery,Budget,30,High
+C033,Vivek Nair,27,Male,Thrissur,Kerala,India,Graduate,Software Developer,590000,Single,0,12,3300,Electronics,Regular,69,Low
+C034,Sheetal Bose,39,Female,Kolkata,West Bengal,India,Post-Graduate,Marketing Manager,830000,Married,1,9,4400,Clothing,Premium,79,Low
+C035,Pankaj Agarwal,46,Male,Meerut,Uttar Pradesh,India,Graduate,Factory Owner,670000,Married,2,7,3500,Home Appliances,Regular,63,Medium
+C036,Rupali Ghosh,28,Female,Bhubaneswar,Odisha,India,Graduate,Teacher,350000,Single,0,6,1700,Books,Budget,44,Medium
+C037,Tarun Yadav,33,Male,Gwalior,Madhya Pradesh,India,Graduate,Police Officer,480000,Married,2,5,2100,Electronics,Regular,53,Medium
+C038,Neha Saxena,22,Female,Jodhpur,Rajasthan,India,Graduate,Student,130000,Single,0,3,600,Fashion,Budget,25,High
+C039,Rajesh Verma,49,Male,Amritsar,Punjab,India,Graduate,Retired,420000,Married,3,4,2000,Health,Regular,50,Medium
+C040,Kamla Devi,60,Female,Varanasi,Uttar Pradesh,India,High School,Homemaker,190000,Married,5,2,800,Grocery,Budget,27,High
+C041,Akash Mehrotra,26,Male,Lucknow,Uttar Pradesh,India,Graduate,Content Creator,340000,Single,0,11,1800,Electronics,Budget,48,Medium
+C042,Preethi Suresh,35,Female,Coimbatore,Tamil Nadu,India,Post-Graduate,Data Scientist,920000,Married,1,10,5100,Technology,Premium,84,Low
+C043,Sumit Chopra,41,Male,Ludhiana,Punjab,India,Graduate,Businessman,1050000,Married,2,14,6000,Automobile,Premium,87,Low
+C044,Madhuri Deshmukh,37,Female,Pune,Maharashtra,India,Post-Graduate,Dentist,1180000,Married,1,8,5500,Healthcare,Premium,81,Low
+C045,Rajan Pillai,53,Male,Kozhikode,Kerala,India,Graduate,Retired,370000,Married,3,4,1900,Health,Budget,46,Medium
+C046,Bhavna Trivedi,30,Female,Vadodara,Gujarat,India,Post-Graduate,Finance Analyst,780000,Single,0,9,4000,Shopping,Regular,73,Low
+C047,Nitin Shukla,44,Male,Bareilly,Uttar Pradesh,India,Graduate,Contractor,510000,Married,3,6,2400,Home Appliances,Regular,54,Medium
+C048,Sonali Banerjee,32,Female,Siliguri,West Bengal,India,Graduate,Librarian,390000,Married,1,7,2000,Books,Regular,56,Medium
+C049,Sameer Khan,28,Male,Aurangabad,Maharashtra,India,Graduate,Engineer,620000,Single,0,12,3100,Electronics,Regular,67,Low
+C050,Rekha Joshi,45,Female,Ajmer,Rajasthan,India,High School,Homemaker,240000,Married,4,3,1000,Grocery,Budget,35,High
